@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Misansy";
+    src: url('./MiSans VF.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Poppinsy";
+    src: url('./Poppins-Medium.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
