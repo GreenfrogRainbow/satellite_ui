@@ -16,7 +16,7 @@
         <div class="contents" style=" color: #EEA84E;font-size: 40px;"></div>
       </div>
       <div class="go-in-button">
-        <div class="content">Check more</div>
+        <div class="content">Check More</div>
       </div>
     </div>
     <div class="mask-div"></div>
@@ -367,7 +367,7 @@ onMounted(() => {
       flex-direction: column;
       align-items: center;
       .content {
-        border-radius: 12px;
+        border-radius: 9px;
         padding:  5px 10px;
         transform: translateY(-100px);
         width: auto;
@@ -378,7 +378,7 @@ onMounted(() => {
         transition: 0.5s all;
         cursor: pointer;
         &:hover {
-          background-color: #f2f2f288;
+          background-color: #f2f2f244;
         }
       }
     }

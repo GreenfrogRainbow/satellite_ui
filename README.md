@@ -1,6 +1,5 @@
 # satellite_climbing_ui
-
-This template should help get you started developing with Vue 3 in Vite.
+目前的页面代码是 src/views/HomeView_current.vue
 
 ## Recommended IDE Setup
 
